@@ -1,9 +1,31 @@
-# R Pipeline Links
+# Links — biolitica-r-modeling-pipeline
 
-## Uso
-Enlaces de operación del pipeline en R.
+Repositorio: `https://github.com/biolitica/biolitica-r-modeling-pipeline`
 
-## Entradas
-- Orquestación
-- Jobs
-- Reportes
+## ADRs
+
+- TODO: verify path
+
+## Specs
+
+- TODO: verify path
+
+## Contracts
+
+- TODO: verify path
+
+## Ops / Runbooks
+
+- TODO: verify path
+
+## WBS local
+
+- TODO: verify path
+
+## Backlog local
+
+- TODO: verify path
+
+## Changelog
+
+- TODO: verify path

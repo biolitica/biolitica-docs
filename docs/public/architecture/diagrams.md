@@ -1,8 +1,8 @@
 # Diagrams
 
-## Propósito
-Listar diagramas de referencia y su estado.
+Este repositorio mantiene únicamente diagramas transversales y públicos.
 
-## Inventario inicial
-- Diagrama de contexto
-- Diagrama de secuencia de pipeline
+- Diagrama de contexto global: `TODO: add diagram`
+- Flujo documental SoT/WBS: `TODO: add diagram`
+
+> Diagramas de bajo nivel deben permanecer en repos de componentes y enlazarse desde `links/`.

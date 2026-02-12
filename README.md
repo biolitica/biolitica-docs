@@ -20,6 +20,10 @@ Este repo separa explícitamente documentación:
 │   ├── public/
 │   │   ├── architecture/
 │   │   ├── contracts/
+│   │   ├── governance/
+│   │   ├── links/
+│   │   ├── source_of_truth/
+│   │   ├── updates/
 │   │   ├── index.md
 │   │   ├── master_wbs.md
 │   │   ├── roadmap.md

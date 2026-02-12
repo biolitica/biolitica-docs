@@ -10,15 +10,37 @@ theme:
     - navigation.expand
   custom_dir: overrides
 nav:
-  - Inicio: index.md
+  - Start Here: index.md
   - Master WBS: master_wbs.md
   - Roadmap: roadmap.md
-  - Decisions: decisions.md
+  - Source of Truth:
+      - Overview: source_of_truth/index.md
+      - SoT Map: source_of_truth/map.md
   - Architecture:
       - Overview: architecture/overview.md
+      - Repo Map: architecture/repo_map.md
+      - Diagrams: architecture/diagrams.md
   - Contracts:
       - Overview: contracts/overview.md
-  - Links: links.md
+      - Versioning Policy: contracts/versioning_policy.md
+      - Admin ↔ Worker: contracts/admin_worker.md
+      - Worker ↔ Pipeline: contracts/worker_pipeline.md
+      - Schemas: contracts/schemas.md
+  - Repo Links:
+      - Index: links/index.md
+      - Admin: links/admin.md
+      - Worker Agent: links/worker_agent.md
+      - Worker Installer: links/worker_installer.md
+      - R Pipeline: links/r_pipeline.md
+  - Governance:
+      - Docs Governance: governance/docs_governance.md
+      - Public/Internal Policy: governance/public_internal_policy.md
+      - Change Process: governance/change_process.md
+      - Deprecation Policy: governance/deprecation_policy.md
+  - Updates:
+      - Release Notes: updates/release_notes.md
+      - Changelog Policy: updates/changelog_policy.md
+  - Decisions: decisions.md
 extra:
   robots_policy: noindex,nofollow,noarchive
 markdown_extensions:

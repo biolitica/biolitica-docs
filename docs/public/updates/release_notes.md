@@ -1,10 +1,8 @@
-# Release Notes
+# Release Notes (transversal)
 
-## Objetivo
-Publicar resumen de cambios por release.
+## 2026-02-12
 
-## Estructura
-- Fecha
-- Versión
-- Cambios principales
-- Riesgos conocidos
+- Se establece `biolitica-docs` como fuente oficial transversal (Capa 1).
+- Se publica Master WBS única con IDs/prioridades/estado/owners.
+- Se publica SoT map con owner por tema y notas de deprecación.
+- Se formaliza gobernanza documental y política de deprecación.

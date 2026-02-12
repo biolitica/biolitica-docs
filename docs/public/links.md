@@ -1,6 +1,5 @@
-# Links a documentación de otros repos
+# Links (deprecated)
 
-Registrar aquí enlaces a documentación externa para evitar duplicación.
+Esta página se mantiene por compatibilidad.
 
-- Repo X: _pendiente_
-- Repo Y: _pendiente_
+Usar el nuevo índice: [Repo Links Index](links/index.md).

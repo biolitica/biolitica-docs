@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <meta name="robots" content="{{ config.extra.robots_policy | default('noindex,nofollow') }}">
+{% endblock %}

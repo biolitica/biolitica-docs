@@ -1,7 +1,13 @@
-# Source of Truth
+# Source of Truth (SoT)
 
-## Propósito
-Identificar fuentes oficiales para decisiones y ejecución.
+## Regla base
 
-## Principio
-Si hay conflicto, prevalece la fuente marcada como canónica.
+Antes de crear o editar documentación técnica, validar en el SoT map cuál documento es canónico.
+
+## Alcance
+
+- SoT por tema (contratos, lifecycle, runbooks, ADRs, WBS).
+- Dueño por repo.
+- Estado de deprecación para documentos duplicados.
+
+Ver matriz en [SoT map](map.md).

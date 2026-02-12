@@ -1,20 +1,14 @@
-# Roadmap
+# Roadmap transversal
 
 ## Horizonte
-Plan trimestral con hitos de documentación y operación.
+
+- **Q1:** establecer SoT + Master WBS + gobernanza operativa.
+- **Q2:** estabilizar contratos versionados y contract tests.
+- **Q3:** consolidar storage/artifacts + observabilidad/provenance.
 
 ## Hitos
-- Hito 1: Base documental pública
-- Hito 2: Contratos y políticas versionadas
-- Hito 3: Ciclo continuo de updates
-## Q1
-- [ ] Hito 1
-- [ ] Hito 2
 
-## Q2
-- [ ] Hito 3
-- [ ] Hito 4
-
-## Riesgos
-- Riesgo A
-- Riesgo B
+1. SoT map operativo y adoptado por repos.
+2. WBS local de repos clasificada como local/deprecated.
+3. Contratos Admin↔Worker↔Pipeline versionados con schemas.
+4. Release notes transversales con cadence definida.

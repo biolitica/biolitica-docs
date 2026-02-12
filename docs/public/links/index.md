@@ -1,10 +1,8 @@
-# Links Index
+# Repo Links Index
 
-## Objetivo
-Punto único de acceso a enlaces operativos públicos.
+> Este módulo contiene **solo enlaces** a documentación de repos de componentes.
 
-## Índice
-- Admin
-- Worker Agent
-- Worker Installer
-- R Pipeline
+- [Admin](admin.md)
+- [Worker Agent](worker_agent.md)
+- [Worker Installer](worker_installer.md)
+- [R Pipeline](r_pipeline.md)

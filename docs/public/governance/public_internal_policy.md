@@ -1,8 +1,21 @@
-# Public/Internal Policy
+# Public vs Internal Policy
 
-## Objetivo
-Separar claramente contenido público de contenido interno.
+## Publicable en este sitio
 
-## Criterios
-- Público: reusable y sin datos sensibles.
-- Interno: operativo restringido o confidencial.
+- WBS y roadmap sin datos sensibles
+- SoT map y políticas
+- Índices de enlaces a documentación técnica
+
+## Lista roja (no publicable)
+
+- Secrets, keys, tokens, credenciales
+- Headers `Authorization` y headers de API keys
+- IPs/hosts internos, rutas de red sensibles
+- Dumps/logs con datos de producción
+- Cualquier dato personal o científico sensible no anonimizado
+
+## Manejo de contenido sensible
+
+- Mover a repos internos o áreas privadas.
+- No usar este sitio como repositorio de evidencia sensible.
+- Mantener scanner de `docs/public` activo en CI.

@@ -1,0 +1,11 @@
+site_name: biolitica-docs
+nav:
+  - Start Here: docs/public/start-here.md
+  - Master WBS: docs/public/master-wbs.md
+  - Roadmap: docs/public/roadmap.md
+  - Source of Truth: docs/public/source-of-truth.md
+  - Architecture: docs/public/architecture.md
+  - Contracts: docs/public/contracts.md
+  - Repo Links: docs/public/repo-links.md
+  - Governance: docs/public/governance.md
+  - Updates: docs/public/updates.md

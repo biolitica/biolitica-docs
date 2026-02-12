@@ -1,28 +1,11 @@
-site_name: Biolítica Docs
-site_description: Documentación transversal de Biolítica (public-safe)
-site_url: https://example.github.io/biolitica-docs/
-docs_dir: docs/public
-theme:
-  name: material
-  language: es
-  features:
-    - navigation.sections
-    - navigation.expand
-  custom_dir: overrides
+site_name: biolitica-docs
 nav:
-  - Inicio: index.md
-  - Master WBS: master_wbs.md
-  - Roadmap: roadmap.md
-  - Decisions: decisions.md
-  - Architecture:
-      - Overview: architecture/overview.md
-  - Contracts:
-      - Overview: contracts/overview.md
-  - Links: links.md
-extra:
-  robots_policy: noindex,nofollow,noarchive
-markdown_extensions:
-  - admonition
-  - tables
-  - toc:
-      permalink: true
+  - Start Here: docs/public/start-here.md
+  - Master WBS: docs/public/master-wbs.md
+  - Roadmap: docs/public/roadmap.md
+  - Source of Truth: docs/public/source-of-truth.md
+  - Architecture: docs/public/architecture.md
+  - Contracts: docs/public/contracts.md
+  - Repo Links: docs/public/repo-links.md
+  - Governance: docs/public/governance.md
+  - Updates: docs/public/updates.md

@@ -1,8 +1,10 @@
 # Decision Log
 
-## ADR-0001 — Título
-- **Fecha:** YYYY-MM-DD
-- **Estado:** Proposed / Accepted / Deprecated
-- **Contexto:**
-- **Decisión:**
-- **Consecuencias:**
+## Propósito
+Registrar decisiones de alcance público y su justificación.
+
+## Formato
+- Fecha
+- Decisión
+- Impacto
+- Responsable

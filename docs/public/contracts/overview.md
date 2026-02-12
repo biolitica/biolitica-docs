@@ -1,11 +1,9 @@
 # Contracts Overview
 
-Inventario de contratos públicos entre sistemas.
+## Alcance
+Describe contratos públicos entre componentes del sistema.
 
-## APIs
-- API A
-- API B
-
-## Eventos
-- Evento A
-- Evento B
+## Categorías
+- API admin-worker
+- Pipeline worker
+- Esquemas compartidos

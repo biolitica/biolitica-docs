@@ -1,14 +1,10 @@
 # Architecture Overview
 
-Documento de alto nivel para describir componentes, límites y flujos.
-
 ## Contexto
-- Problema que resuelve el sistema
+Vista de alto nivel de componentes y su interacción.
 
-## Componentes principales
-- Componente A
-- Componente B
-
-## Flujos críticos
-- Flujo 1
-- Flujo 2
+## Componentes
+- Admin
+- Worker Agent
+- Worker Installer
+- Pipeline R
